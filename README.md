@@ -22,7 +22,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
-![Assembly](https://img.shields.io/badge/-Assembly-orange&logo=assembly)
+![Assembly](https://img.shields.io/badge/-Assembly-orange&)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
