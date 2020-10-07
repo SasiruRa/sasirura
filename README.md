@@ -14,4 +14,4 @@
 
 
 
-![Sasiru's github stats](https://github-readme-stats.vercel.app/api?username=wijendra&theme=default&show_icons=true)
+![Sasiru's github stats](https://github-readme-stats.vercel.app/api?username=wijendra&count_private=true&show_icons=true)
