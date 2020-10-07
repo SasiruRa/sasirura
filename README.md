@@ -1,8 +1,8 @@
 ### I'm Sasiru Ravihansa
 
-🎓 Undergraduate student in 'Mathematics' and 'physics' ;
+🎓 Undergraduate student in 'Mathematics' and 'physics';
 💻 very interesing in Algorithm development,computer security and Devops;
-💻 script kiddie at [Hachthebox](https://www.hackthebox.eu/profile/103575) ; <img; src="http://www.hackthebox.eu/badge/image/103575" alt="Hack The Box">;
+💻 script kiddie at [Hachthebox](https://www.hackthebox.eu/profile/103575); <img; src="http://www.hackthebox.eu/badge/image/103575" alt="Hack The Box">;
 
 <i>Let's Connect:</i><br>
 
